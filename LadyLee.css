@@ -1,0 +1,17 @@
+body {
+  background-color: violet;
+  border-style: solid;
+  border-radius: 5px;
+}
+h1 {
+  background-color: red;
+  text-align-last: center;
+  border-radius: 6px;
+  margin: 5px;
+}
+
+p {
+  margin: 6px;
+  font-family: Arial;
+  font-size: 20px;
+}
